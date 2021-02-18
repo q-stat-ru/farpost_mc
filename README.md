@@ -33,7 +33,8 @@ post_stat.csv - статистика в разрезе постов
 3. Создать недостающие таблицы (таблица с именами соцсетей)
 4. Связать модель
 5. Создать таблицу как простейшую визуализацию и проверить что всё ок
-6. Создать меры Engagement, ER
+6. Создать меру Engagement = SUM(post_stat[likes]) + SUM(post_stat[comments]) + SUM(post_stat[reposts]) + SUM(post_stat[clicksToLink]), 
+7. Создать меру ER = [_Engagement]/SUM(post_stat[reach])
 
 ### Домашнее задание
 1) Создать меры Reach/Post, Views/Post

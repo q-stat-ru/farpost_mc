@@ -22,7 +22,9 @@ https://docs.google.com/presentation/d/1kUxG8pM4Eo2MKxlk3Bg_s3pRLEM9j-qss8ENEPoE
 
 ### Источники данных
 posts.csv - информация о постах из различных соцсетей
+
 post_stat.csv - статистика в разрезе постов
+
 Календарь - https://docs.google.com/spreadsheets/d/e/2PACX-1vQolps9D_y0dxeVACI4X0asUTWhGcsbYae5nkqZNBmzq-sqEBrW-SUm3Q8JuaVG9RpdUqHv9fiDExjH/pub?output=csv
 
 ### Ход выполнения
@@ -35,6 +37,6 @@ post_stat.csv - статистика в разрезе постов
 
 ### Домашнее задание
 1) Создать меры Reach/Post, Views/Post
-2) Сделать отчет, который бы показал
+2) Сделать отчет, который бы показал Топ5 постов с различными фильтрами
 3) Найти зависимости между различными показателями
 4) Вычленить хештеги из текста, чтобы сделать возможным фильтрацию по тегам

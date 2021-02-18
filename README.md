@@ -7,13 +7,18 @@ https://www.microsoft.com/en-us/download/details.aspx?id=58494
 ## Дисклеймер
 Все данные представленные в данном репозитории отличаются от реальных, но на выполнение задания это никак не повлияет.
 
+
+
+
 ## Задания
 Данные для заданий разбиты по папкам
-
 
 ## Урок 1. 
 ### Презентация
 https://docs.google.com/presentation/d/1kUxG8pM4Eo2MKxlk3Bg_s3pRLEM9j-qss8ENEPoEiU8/edit?usp=sharing
+
+### Видео-запись урока
+_Появится позже_
 
 ### Проблема
 Мы ведем множество различных соцсетей. Но смотреть статистику мы можем только в каждой сети отдельно, а мы бы хотели иметь возможность сравнивать между собой соцсети.
@@ -33,7 +38,7 @@ post_stat.csv - статистика в разрезе постов
 3. Создать недостающие таблицы (таблица с именами соцсетей)
 4. Связать модель
 5. Создать таблицу как простейшую визуализацию и проверить что всё ок
-6. Создать меру Engagement = SUM(post_stat[likes]) + SUM(post_stat[comments]) + SUM(post_stat[reposts]) + SUM(post_stat[clicksToLink]), 
+6. Создать меру Engagement = SUM(post_stat[likes]) + SUM(post_stat[comments]) + SUM(post_stat[reposts]) + SUM(post_stat[clicksToLink])
 7. Создать меру ER = [_Engagement]/SUM(post_stat[reach])
 
 ### Домашнее задание

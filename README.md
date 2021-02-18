@@ -7,8 +7,15 @@ https://www.microsoft.com/en-us/download/details.aspx?id=58494
 ## Дисклеймер
 Все данные представленные в данном репозитории отличаются от реальных, но на выполнение задания это никак не повлияет.
 
-
-
+## Полезные ссылки
+Справочник по Power Query - https://docs.microsoft.com/ru-ru/powerquery-m/power-query-m-function-reference
+Справочник по DAX - https://docs.microsoft.com/ru-ru/previous-versions/sql/sql-server-2016/ee634396(v=sql.130)
+Русскоязычное сообщество по Power BI
+* Facebook - https://www.facebook.com/groups/powerBiForever
+* Телеграм - https://t.me/PBI_Rus
+https://powerbirussia.ru/category/tutorials-and-manuals/
+Неплохой русскоязычный сайт про Power BI - https://powerbirussia.ru/category/tutorials-and-manuals/
+Мой сайт про аналитику и Power BI - https://q-stat.ru/
 
 ## Задания
 Данные для заданий разбиты по папкам

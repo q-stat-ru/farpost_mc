@@ -22,7 +22,9 @@ https://docs.google.com/presentation/d/1kUxG8pM4Eo2MKxlk3Bg_s3pRLEM9j-qss8ENEPoE
 
 ### Источники данных
 posts.csv - информация о постах из различных соцсетей
+
 post_stat.csv - статистика в разрезе постов
+
 Календарь - https://docs.google.com/spreadsheets/d/e/2PACX-1vQolps9D_y0dxeVACI4X0asUTWhGcsbYae5nkqZNBmzq-sqEBrW-SUm3Q8JuaVG9RpdUqHv9fiDExjH/pub?output=csv
 
 ### Ход выполнения

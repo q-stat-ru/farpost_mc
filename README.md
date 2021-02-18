@@ -28,7 +28,8 @@ https://www.microsoft.com/en-us/download/details.aspx?id=58494
 https://docs.google.com/presentation/d/1kUxG8pM4Eo2MKxlk3Bg_s3pRLEM9j-qss8ENEPoEiU8/edit?usp=sharing
 
 ### Видео-запись урока
-_Появится позже_
+https://zoom.us/rec/share/FAWWMJMcLG2qLmyB5nJaDcj5ACDSDW0ZjWY-udO9g41FEn7Z-cg4w1eZWnFZhDJY.3bVD_GTD8cU0J9FC 
+(Код доступа: Leuy*f77) 
 
 ### Проблема
 Мы ведем множество различных соцсетей. Но смотреть статистику мы можем только в каждой сети отдельно, а мы бы хотели иметь возможность сравнивать между собой соцсети.

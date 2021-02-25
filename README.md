@@ -72,13 +72,19 @@ https://docs.google.com/presentation/d/15-y79DXYX5xHIMvDxDEHdic-xTjbczVTg4Ej8exM
 
 ### Источники данных
 dump_vk_post.csv - данные о постах из ВКонтакте
+
 dump_fb_post.csv - данные о постах из Facebook
+
 dump_ig_post.csv - данные о постах из Instagram
+
 dump_ok_post.csv - данные о постах из Одноклассников
 
 dump_vk_post_stat.csv - данные о статистике постов из ВКонтакте
+
 dump_fb_post_stat.csv - данные о статистике постов из Facebook
+
 dump_ig_post_stat.csv - данные о статистике постов из Instagram
+
 dump_ok_post_stat.csv - данные о статистике постов из Одноклассников
 
 system-cost.xlsx - выгрузка из бухгалтерской программы с данными о тратах на соцсети в разрезе месяцев

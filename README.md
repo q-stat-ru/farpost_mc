@@ -63,7 +63,8 @@ post_stat.csv - статистика в разрезе постов
 https://docs.google.com/presentation/d/15-y79DXYX5xHIMvDxDEHdic-xTjbczVTg4Ej8exMes0/edit?usp=sharing
 
 ### Видео-запись урока
-появится позже
+https://zoom.us/rec/share/KK1D84Ngqk59i_B7cWO1YkaEY68RlBMzC4tTfMjWasJlSw3Nob5AKyeEXYrzAG0.u0oysGk3y2G0S-UE 
+(Код доступа: J^uc6XB*)
 
 ### Проблема
 Мы имеем данные полученные из API различных систем, а также выгрузки из бухгалтерской программы. 

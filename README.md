@@ -113,7 +113,7 @@ dataset['link'] = dataset['text'].str.findall(r'https\:\/\/[A-Za-z0-9\/\.]+')
 https://docs.google.com/presentation/d/1GOXAZQ_b-HNsyI7E-AbIobh-7A9uA067NWX889ugKwg/edit?usp=sharing
 
 ### Видео-запись урока
-https://zoom.us/rec/share/lAMS8TV8czYeyUaNH12RIOyICFn16Sqv3kmpW6gBCFqKi8og86CoyN_3-9atWI8v.ZGrZbWxjF1OjkUI_ (Код доступа: 5tG^U?SZ) 
+https://zoom.us/rec/share/lAMS8TV8czYeyUaNH12RIOyICFn16Sqv3kmpW6gBCFqKi8og86CoyN_3-9atWI8v.ZGrZbWxjF1OjkUI_v (Код доступа: 5tG^U?SZ) 
 
 ### Проблема
 Мы имеем все нужные данные для анализа, но в таком виде с ними работать не удобно.

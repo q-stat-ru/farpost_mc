@@ -139,7 +139,7 @@ data.csv - таблица данных
 https://docs.google.com/presentation/d/1foQ4sStibegKUpOLrlOjoeqTkMkyw_2CwgcYKj_lhys/edit?usp=sharing
 
 ### Видео-запись урока
-https://zoom.us/rec/share/Qrm590B1z1QlAMkPnkyriLVzw5grSejhn9lPth-Ot1dEodICfljZoggIU0K8DWEL.piD9eZHOaPHQuR8K (Код доступа: +^q1a$h )
+https://zoom.us/rec/share/Qrm590B1z1QlAMkPnkyriLVzw5grSejhn9lPth-Ot1dEodICfljZoggIU0K8DWEL.piD9eZHOaPHQuR8K (Код доступа: +^q1a$h. )
 
 ### Проблема
 Мы имеем несколько различных наборов данных, но смотреть на них только в табличном виде неудобно.
